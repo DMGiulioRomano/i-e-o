@@ -5,7 +5,9 @@ main:
     url: /formazione/
   - title: "EVENTI"
     url: /eventi/
-  - title: "CRM"
+  - title: "MEDIA"
+    url: /media/
+  - title: "IEO"
     url: /about/
   - title: "CONTATTI"
     url: "/contatti/"
