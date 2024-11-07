@@ -7,3 +7,5 @@ main:
     url: /eventi/
   - title: "CRM"
     url: /about/
+  - title: "CONTATTI"
+    url: "/contatti/"
