@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "invenzioni"
+    url: /invenzioni/
+  - title: "formzione"
+    url: /formazione/
+  - title: "eventi"
+    url: /eventi/
+  - title: "crm"
     url: /about/
