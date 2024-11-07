@@ -1,9 +1,9 @@
 main:
-  - title: "invenzioni"
+  - title: "INVENZIONI"
     url: /invenzioni/
-  - title: "formazione"
+  - title: "FORMAZIONE"
     url: /formazione/
-  - title: "eventi"
+  - title: "EVENTI"
     url: /eventi/
-  - title: "crm"
+  - title: "CRM"
     url: /about/
