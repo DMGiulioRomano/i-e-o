@@ -1,95 +1,95 @@
 # Authors
 
-Alice Cortegiani:
-  name        : "Alice Cortegiani"
-  bio         : "Zebra Permanente"
+Michelangelo Lupone:
+  name        : "Michelangelo Lupone"
+  bio         : "Compositore - Direttore Artistico"
   avatar      : "/assets/images/acc.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:alicecortegiani@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://s-e-a-m.github.io/alice-cortegiani/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Metabolismo"
+      url: "mailto:direzione@crm-music.it"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://s-e-a-m.github.io/alice-cortegiani/"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/Metabolismo"
 
 
-Giulio Romano De Mattia:
-  name        : "Giulio Romano De Mattia"
-  bio         : "Ricordando giornalmente la nascita"
+Silvia Lanzalone:
+  name        : "Silvia Lanzalone"
+  bio         : "Compositrice - Coordinamento Generale"
   avatar      : "/assets/images/grdm.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:giuliodemattia21@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://s-e-a-m.github.io/giulio-romano-de-mattia/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://gitlab.com/GiulioDeMattia"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DMGiulioRomano"
+      url: "mailto:coordinamento@crm-music.it"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://s-e-a-m.github.io/giulio-romano-de-mattia/"
+  #  - label: "GitLab"
+  #    icon: "fab fa-fw fa-gitlab"
+  #    url: "https://gitlab.com/GiulioDeMattia"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/DMGiulioRomano"
 
-Luca Spanedda:
-  name        : "Luca Spanedda"
-  bio         : "Bio "
+Laura Bianchini:
+  name        : "Laura Bianchini"
+  bio         : "Compositrice - Direzione Organizzativa"
   avatar      : "/assets/images/ls.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lucaspanedda1995@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://s-e-a-m.github.io/luca-spanedda/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://gitlab.com/lucaspanedda1995"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/LucaSpanedda"
+      url: "mailto:laura.bianchini@crm-music.it"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://s-e-a-m.github.io/luca-spanedda/"
+  #  - label: "GitLab"
+  #    icon: "fab fa-fw fa-gitlab"
+  #    url: "https://gitlab.com/lucaspanedda1995"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/LucaSpanedda"
 
-Davide Tedesco:
-  name        : "Davide Tedesco"
-  bio         : "sudo"
-  avatar      : "assets/images/dt.jpeg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:me@davidetedesco.it"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.davidetedesco.it"
+#Davide Tedesco:
+#  name        : "Davide Tedesco"
+#  bio         : "sudo"
+#  avatar      : "assets/images/dt.jpeg"
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:me@davidetedesco.it"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://www.davidetedesco.it"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/extravagantman"
 
-Giuseppe Silvi:
-  name        : "Giuseppe Silvi"
-  bio         : "Vivere è stare svegli."
-  avatar      : "assets/images/gs.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:grammaton@me.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://s-e-a-m.github.com/giuseppe-silvi/"
+#Giuseppe Silvi:
+#  name        : "Giuseppe Silvi"
+#  bio         : "Vivere è stare svegli."
+#  avatar      : "assets/images/gs.jpg"
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:grammaton@me.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://s-e-a-m.github.com/giuseppe-silvi/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/extravagantman"
 
-Francesco Ferracuti:
-  name        : "Francesco Ferracuti"
-  bio         : "sono ecosostenibile, sono bio"
-  avatar      : "assets/images/ff.jpg"
-  links:
-    - label: "ferracutifrancesco.00@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ferracutifrancesco.00@gmail.com"
+#Francesco Ferracuti:
+#  name        : "Francesco Ferracuti"
+#  bio         : "sono ecosostenibile, sono bio"
+#  avatar      : "assets/images/ff.jpg"
+#  links:
+#    - label: "ferracutifrancesco.00@gmail.com"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:ferracutifrancesco.00@gmail.com"
 
 Billy Rick:
   name        : "Billy Rick"
