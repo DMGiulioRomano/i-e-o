@@ -1,29 +1,57 @@
 ---
 permalink: /about/
-title: "About"
+title: "CENTRO RICERCHE MUSICALI CRM"
 ---
 
-_Sustained Electro-Acoustic Music_ is a project inspired by [Alvise Vidolin and Nicola Bernardini](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music).
 
-## SEAM meaning
 
-> **seam** \| siːm \|  
-> noun  
-> 1. a line where two pieces of fabric are sewn together in a garment or other article.
->
-> * a line where the edges of two pieces of wood, wallpaper, or another material touch each other: the task involved clamping the panels into position and arc welding a seam to join them.
-> * a long thin indentation or scar: the track cleaves a seam through corn.
->   1. an underground layer of a mineral such as coal or gold: the buried forests became seams of coal.
-> * a supply of something valuable: Sunderland have a rich seam of experienced players.
-> * a trace or presence of something: there is a seam of despondency in Stipe's words.    
->
-> verb 1. join with a seam: it can be used for seaming garments. 2. \(usually as adjective seamed\) make a long, narrow indentation in: men in middle age have seamed faces.
+Il Centro Ricerche Musicali CRM è un’Associazione no profit fondata a Roma nel 1988,
+dai compositori Laura Bianchini e Michelangelo Lupone, per promuovere la ricerca
+musicale nei suoi aspetti estetici, analitici, musicologici e scientifici.
+Nel 1990 il CRM è stato riconosciuto ufficialmente dal Ministero dell’Università
+e della Ricerca scientifica e tecnologica come ‘Centro di ricerca nel settore Musica’
+e, nel 1993 ha ricevuto la menzione dalla Japan Foundation per i risultati conseguiti nella ricerca.
 
-## Contributors:
+Oggi il lavoro del CRM, che è anche di formazione e di didattica, impegna
+stabilmente musicisti e studiosi in un’attività di ricerca teorica e applicata,
+condotta in collaborazione con centri di ricerca italiani ed esteri, con
+formazioni strumentali e istituzioni musicali.
 
- - [Alice Cortegiani](http://s-e-a-m.github.io/alice-cortegiani/)
- - [Giulio Romano De Mattia](http://s-e-a-m.github.io/giulio-romano-de-mattia/)
- - [Francesco Ferracuti](http://s-e-a-m.github.io/francesco-ferracuti/)
- - [Davide Tedesco]()
- - [Giuseppe Silvi](http://s-e-a-m.github.io/giuseppe-silvi/)
- - [Luca Spanedda]()
+Il CRM, nella sua produzione musicale, nell’attività concertistica in Italia e
+all’estero, progetta e sviluppa sistemi ‘hardware’ e ‘software’ mirati, sperimenta
+sistemi di composizione e algoritmi, che permettono una costante interazione tra
+i linguaggi musicali, il pensiero scientifico e le risorse tecnologiche.
+
+Dai laboratori del CRM, sono usciti complessi sistemi digitali per la sintesi e
+l’elaborazione del suono in tempo reale (computer ‘esperti’); per la composizione
+musicale; per la progettazione di spazi d’ascolto; per lo studio di modelli fisici
+finalizzati allo sviluppo di strumenti musicali virtuali. Sono stati progettati
+e sviluppati sistemi multifonici per la diffusione del suono (Planofoni®, Olofoni,
+Risonatori e Tubi sonori, Schermi riflettenti).
+
+Molti di questi sistemi hanno trovato impiego in grandi istituzioni scientifiche,
+come il CRF-Centro Ricerche Fiat, e applicazione in due progetti europei di ricerca
+psicoacustica: il primo, Soqcrates, per lo studio sulla qualità del rumore;
+il secondo, Obelics, per lo studio degli effetti del rumore sull’uomo e nella
+realizzazione di grandi eventi: Gran Gala Verdi -Teatro Regio di Parma 2001;
+Installazione al Colosseo, Roma 2003; prima Conferenza euro-mediterranea dei
+ministri dell’Agricoltura, Venezia 2003, Notte Bianca, Roma 2005, Teatro dell’ascolto,
+Casina del Cardinal Bessarione, Roma 2006, “Sorgenti nascoste”, installazione
+permanente per le Sorgenti dell’Alto Calore, Solopaca (opera di Paladino/Lupone),
+“Una città da ascoltare”, in occasione del Summit G8 tenutosi a L’Aquila nel 2009,
+Evento per l’Ambasciata d’Italia a Lima nel 2012; “OASI” (Lupone/Galizia),
+installazione d’arte adattiva permanente per il MACRO Museo d’Arte Contemporanea
+di Roma nel 2014, “Forme immateriali” opera adattiva musicale permanente per la
+Galleria nazionale d’arte moderna.
+
+Il CRM promuove e organizza il festival internazionale di arte scienza e cultura
+contemporanea [ArteScienza](https://www.artescienza.info/it/).
+
+
+## SEDE
+
+Via Angelo Della Pergola, 60
+00176 Roma
+t. 0039 06 6930 8046
+e. info@crm-music.it
+P.IVA/C.F.: 03859111001
