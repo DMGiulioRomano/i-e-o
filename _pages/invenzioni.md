@@ -7,9 +7,26 @@ title: "INVENZIONI"
 
 aio
 
-## Contributors:
+## Modello fisico della corda
 
- - [Alice Cortegiani](http://s-e-a-m.github.io/alice-cortegiani/)
- - [Giulio Romano De Mattia](http://s-e-a-m.github.io/giulio-romano-de-mattia/)
- - [Francesco Ferracuti](http://s-e-a-m.github.io/francesco-ferracuti/)
- - [Giuseppe Silvi](http://s-e-a-m.github.io/giuseppe-silvi/)
+Programma di sintesi di strumenti a corda e ad arco con modello fisico. 
+
+## SISASP 
+
+Sistema Hardware-Software basato su Fly30 (doppia scheda) realizzato per il CRF - Centro Ricerche Fiat.
+
+## Applicativi di supporto per System Fly
+
+Programmi sviluppati per System Fly (1992-1995)
+
+## Pipe Simulator 
+
+Programma applicativo che simula il modello fisico di un tubo, per lo studio delle riflessioni.
+
+## Kaleidophone 
+
+Programma applicativo che simula il modello fisico di un ambiente a forma di parallelepipedo, per lo studio delle riflessioni.
+
+## Linea 
+
+Editor numerico di partitura per FLY30

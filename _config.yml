@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   ILACISUM EHCRECIR ORTNEC
 twitter_username:
 github_username:
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: crm
 search: true
 
 # Build settings
