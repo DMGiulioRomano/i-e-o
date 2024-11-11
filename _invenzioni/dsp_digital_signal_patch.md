@@ -1,3 +1,11 @@
+---
+title: "DSP Digital Signal Patch"
+excerpt: ""
+header:
+  image:
+  teaser:
+---
+
 DSP Digital Signal Patch
 
 (1990) Programma per il progetto grafico e la realizzazione di algoritmi di calcolo numerico in virgola mobile per l'acquisizione, l'analisi, la sintesi, l'elaborazione dinamica dei segnali su sistema FLY30.

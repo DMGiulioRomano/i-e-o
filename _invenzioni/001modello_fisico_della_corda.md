@@ -1,3 +1,11 @@
+---
+title: "Modello Fisico della Corda"
+excerpt: "Programma di sintesi di strumenti a corda e ad arco con modello fisico."
+header:
+  image:
+  teaser:
+---
+
 modello fisico della corda
 
 

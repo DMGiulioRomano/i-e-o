@@ -1,3 +1,12 @@
+---
+title: "Pipe Simulator"
+excerpt: ""
+header:
+  image:
+  teaser:
+---
+
+
 Pipe Simulator
 
 (1995) Programma applicativo che simula il modello fisico di un tubo, per lo studio delle riflessioni.

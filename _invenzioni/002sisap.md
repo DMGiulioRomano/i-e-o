@@ -1,3 +1,11 @@
+---
+title: "SISASP"
+excerpt: "Sistema Hardware-Software basato su Fly30 (doppia scheda) realizzato per il CRF - Centro Ricerche Fiat."
+header:
+  image:
+  teaser:
+---
+
 SISASP
 
 
