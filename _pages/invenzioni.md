@@ -1,6 +1,10 @@
 ---
+title: invenzioni
+layout: collection
 permalink: /invenzioni/
-title: "INVENZIONI"
+collection: invenzioni
+entries_layout: grid
+classes: wide
 ---
 
 <!-- ## IEO

@@ -104,13 +104,20 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _pages
+# _invenzioni
   - scope:
-      path: "_invenzioni"
-      type: pages
+      path: ""
+      type: invenzioni
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      share: true
+
+collections:
+  invenzioni:
+    output: true
+    permalink: /:invenzioni/
+
 
 category_archive:
   type: liquid
