@@ -1,6 +1,6 @@
 ---
 title: "Silvia Lanzalone"
-excerpt: "."
+excerpt: "Compositrice - Responsabile live electronics"
 header:
   image:
   teaser:

@@ -1,6 +1,6 @@
 ---
 title: "Laura Bianchini"
-excerpt: "."
+excerpt: "Direttrice organizzativa"
 header:
   image:
   teaser:

@@ -1,6 +1,6 @@
 ---
 title: "Michelangelo Lupone"
-excerpt: "."
+excerpt: "Direttore artistico"
 header:
   image:
   teaser:
