@@ -113,9 +113,20 @@ defaults:
       layout: single
       author_profile: false
       share: true
+# _contatti
+  - scope:
+      path: "_contatti"
+      type: contatti
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 collections:
   invenzioni:
+    output: true
+    permalink: /:collection/:path/
+  contatti:
     output: true
     permalink: /:collection/:path/
 
