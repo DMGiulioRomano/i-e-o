@@ -1,5 +1,10 @@
-Sistema Fly10
-
+---
+title: "Sistema Fly10"
+excerpt: "Sistema hardware-software per la sintesi e il controllo del suono in tempo reale."
+header:
+  image:
+  teaser:
+---
 Ideazione: Michelangelo Lupone
 Progetto e realizzazione: Laura Bianchini, Michelangelo Lupone
 Prima presentazione: V CIM Colloquio d’Informatica Musicale, Mostra d’Oltremare, Napoli, 1985

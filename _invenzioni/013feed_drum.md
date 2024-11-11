@@ -1,12 +1,11 @@
 ---
 title: "Feed-Drum"
-excerpt: ""
+excerpt: "Strumento elettroacustico a percussione."
 header:
   image:
   teaser:
 ---
 
-Feed-Drum
 
 Ideazione e progetto: Michelangelo Lupone
 Prima presentazione: Musica a tre dimensioni MusicaScienza, Roma 3-9 giugno 2002

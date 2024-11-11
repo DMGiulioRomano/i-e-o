@@ -1,4 +1,10 @@
-Tubi sonori - Guide del suono
+---
+title: "Tubi sonori - Guide del suono"
+excerpt: "Sistemi a guida d’onda nati dallo studio dei modelli virtuali di strumenti a fiato."
+header:
+  image:
+  teaser:
+---
 
 
 Ideazione: Laura Bianchini e Michelangelo Lupone

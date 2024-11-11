@@ -1,11 +1,10 @@
 ---
 title: "Linea"
-excerpt: ""
+excerpt: "Editor numerico di partitura per FLY30"
 header:
   image:
   teaser:
 ---
-Linea
 
 (1993) Quick editor numerico di partitura per FLY30.
 

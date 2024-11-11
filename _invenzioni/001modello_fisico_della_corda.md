@@ -2,10 +2,9 @@
 title: "Modello Fisico della Corda"
 excerpt: "Programma di sintesi di strumenti a corda e ad arco con modello fisico."
 header:
-  image:
+  image: assets/images/bow_new.gif
   teaser:
 ---
-
 
 Ideazione: Michelangelo Lupone
 

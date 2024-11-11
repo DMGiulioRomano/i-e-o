@@ -1,12 +1,10 @@
 ---
 title: "Applicativi di supporto per System Fly"
-excerpt: ""
+excerpt: "Programmi sviluppati per System Fly (1992-1995)"
 header:
   image:
   teaser:
 ---
-
-Applicativi di supporto per System Fly
 
 
 Wave Table Converter

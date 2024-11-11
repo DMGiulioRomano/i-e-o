@@ -1,6 +1,6 @@
 ---
 title: "Alessio Gabriele"
-excerpt: "."
+excerpt: "Compositore - Responsabile tecnologie informatiche"
 header:
   image:
   teaser:

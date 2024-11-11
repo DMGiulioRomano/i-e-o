@@ -1,13 +1,10 @@
 ---
 title: "Olofoni"
-excerpt: ""
+excerpt: "Sistemi multifonici basati sull'emissione di onde piane."
 header:
   image:
   teaser:
 ---
-
-
-Olofoni
 
 Ideazione e progetto: Michelangelo Lupone
 Prima presentazione: Musica infinita - MusicaScienza Giardini dell’Accademia Filarmonica Romana, 2000

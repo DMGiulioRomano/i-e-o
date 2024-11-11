@@ -1,13 +1,11 @@
 ---
 title: "Planofoni"
-excerpt: ""
+excerpt: "Superfici vibranti composte di materiali eterogenei con diverse dimensioni e coloratura. I Planofoni® diffondono il suono in modo coerente e omogeneo su tutta la superficie, con caratteristiche dipendenti dalla qualità della materia e dalla geometria della forma."
 header:
   image:
   teaser:
 ---
 
-
-Planofoni
 
 Ideazione: Laura Bianchini e Michelangelo Lupone
 Progetto: Michelangelo Lupone

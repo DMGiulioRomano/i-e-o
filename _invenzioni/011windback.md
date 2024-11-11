@@ -1,4 +1,10 @@
-Windback
+---
+title: "WindBack"
+excerpt: "Il WindBack fa parte della famiglia degli “strumenti aumentati” progettati dal compositore Michelangelo Lupone e realizzati al Centro Ricerche Musicali – CRM di Roma."
+header:
+  image:
+  teaser:
+---
 
 Ideazione e progetto: Michelangelo Lupone
 Prima presentazione: Centro Cultural Recoleta, Buenos Aires Argentina, 2011

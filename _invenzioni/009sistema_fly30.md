@@ -1,4 +1,10 @@
-Sistema Fly30
+---
+title: "Sistema Fly30"
+excerpt: "Sistema hardware-software per l'analisi, la sintesi e l'elaborazione del suono in tempo reale."
+header:
+  image:
+  teaser:
+---
 
 Ideazione e progetto: Michelangelo Lupone
 Realizzazione software: Antonio Pellecchia

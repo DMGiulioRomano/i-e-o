@@ -1,13 +1,11 @@
 ---
 title: "Pipe Simulator"
-excerpt: ""
+excerpt: "Programma applicativo che simula il modello fisico di un tubo, per lo studio delle riflessioni."
 header:
   image:
   teaser:
 ---
 
-
-Pipe Simulator
 
 (1995) Programma applicativo che simula il modello fisico di un tubo, per lo studio delle riflessioni.
 I parametri modificabili del tubo sono: lunghezza, diametro e coefficiente di assorbimento delle pareti.

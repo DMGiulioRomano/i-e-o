@@ -1,4 +1,10 @@
-SkinAct
+---
+title: "SkinAct"
+excerpt: "Strumento aumentato a percussione."
+header:
+  image:
+  teaser:
+---
 
 Ideazione e progetto: Michelangelo Lupone
 Prima presentazione: HEM-Haute Ecole de Musique di Ginevra, maggio 2012.
