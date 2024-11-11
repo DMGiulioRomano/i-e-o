@@ -118,6 +118,9 @@ collections:
   invenzioni:
     output: true
     permalink: /:collection/:path/
+  contatti:
+    output: true
+    permalink: /:collection/:path/
 
 
 category_archive:
