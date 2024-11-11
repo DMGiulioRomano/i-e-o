@@ -7,8 +7,6 @@ header:
 ---
 
 
-Planofoni
-
 Ideazione: Laura Bianchini e Michelangelo Lupone
 Progetto: Michelangelo Lupone
 Prima presentazione: Installazione sonora Stanze del legno e del metallo, Musica Scienza, Acquario Romano – Roma, 1998
