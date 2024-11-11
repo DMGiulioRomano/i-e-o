@@ -6,6 +6,7 @@ header:
   teaser:
 ---
 
+<img src="assets/images/bow_new.gif">
 
 Ideazione: Michelangelo Lupone
 
