@@ -1,13 +1,11 @@
 ---
-title: invenzioni
+title: INVENZIONI
 layout: collection
 permalink: /invenzioni/
 collection: invenzioni
 entries_layout: list
 classes: wide
 ---
-
-ciccio pizza
 
 <!-- ## IEO
 
