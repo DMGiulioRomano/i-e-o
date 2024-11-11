@@ -6,8 +6,6 @@ header:
   teaser:
 ---
 
-Applicativi di supporto per System Fly
-
 
 Wave Table Converter
 Consente la conversione di forme d'onda da tabelle ASCII a campioni floating point
