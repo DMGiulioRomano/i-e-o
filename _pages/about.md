@@ -50,12 +50,8 @@ contemporanea [ArteScienza](https://www.artescienza.info/it/).
 
 ## SEDE
 
-Via Angelo Della Pergola, 60
-
-00176 Roma
-
-t. 0039 06 6930 8046
-
-e. info@crm-music.it
-
+Via Angelo Della Pergola, 60    
+00176 Roma    
+t. 0039 06 6930 8046    
+e. info@crm-music.it    
 P.IVA/C.F.: 03859111001
