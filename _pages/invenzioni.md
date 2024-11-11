@@ -3,7 +3,7 @@ title: invenzioni
 layout: collection
 permalink: /invenzioni/
 collection: invenzioni
-entries_layout: grid
+entries_layout: list
 classes: wide
 ---
 
