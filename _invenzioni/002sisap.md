@@ -6,10 +6,11 @@ header:
   teaser:
 ---
 
-SISASP
+
 
 
 Progetto: Michelangelo Lupone, Lorenzo Seno
+
 Prima presentazione: Centro Ricerche Fiat, 1992
 
 Sistema Hardware-Software basato su Fly30 (doppia scheda) realizzato per il CRF - Centro Ricerche Fiat.
