@@ -3,15 +3,15 @@ permalink: /invenzioni/
 title: "INVENZIONI"
 ---
 
-## IEO
+<!-- ## IEO
 
 aio
 
 ## Modello fisico della corda
 
-Programma di sintesi di strumenti a corda e ad arco con modello fisico. 
+Programma di sintesi di strumenti a corda e ad arco con modello fisico.
 
-## SISASP 
+## SISASP
 
 Sistema Hardware-Software basato su Fly30 (doppia scheda) realizzato per il CRF - Centro Ricerche Fiat.
 
@@ -19,14 +19,14 @@ Sistema Hardware-Software basato su Fly30 (doppia scheda) realizzato per il CRF 
 
 Programmi sviluppati per System Fly (1992-1995)
 
-## Pipe Simulator 
+## Pipe Simulator
 
 Programma applicativo che simula il modello fisico di un tubo, per lo studio delle riflessioni.
 
-## Kaleidophone 
+## Kaleidophone
 
 Programma applicativo che simula il modello fisico di un ambiente a forma di parallelepipedo, per lo studio delle riflessioni.
 
-## Linea 
+## Linea
 
-Editor numerico di partitura per FLY30
+Editor numerico di partitura per FLY30 -->
