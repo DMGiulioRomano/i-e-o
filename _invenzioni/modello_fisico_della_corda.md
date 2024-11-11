@@ -1,3 +1,11 @@
+---
+title: "Modello Fisico della Corda"
+excerpt: ""
+header:
+  image:
+  teaser:
+---
+
 modello fisico della corda
 
 

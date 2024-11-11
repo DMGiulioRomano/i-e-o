@@ -1,6 +1,6 @@
 ---
-title: "applicativi"
-excerpt: "Applicativi di supporto per System Fly"
+title: "Applicativi di supporto per System Fly"
+excerpt: ""
 header:
   image:
   teaser:

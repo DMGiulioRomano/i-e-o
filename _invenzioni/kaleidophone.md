@@ -1,3 +1,11 @@
+---
+title: "Kaleidophone"
+excerpt: ""
+header:
+  image:
+  teaser:
+---
+
 Kaleidophone
 
 (1995) Programma applicativo che simula il modello fisico di un ambiente a forma di parallelepipedo, per lo studio delle riflessioni. I parametri modificabili del parallelepipedo sono altezza, larghezza, profondità e coefficiente di assorbimento delle pareti.
