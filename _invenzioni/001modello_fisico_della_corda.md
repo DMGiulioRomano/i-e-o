@@ -6,12 +6,13 @@ header:
   teaser:
 ---
 
-modello fisico della corda
-
 
 Ideazione: Michelangelo Lupone
+
 Progetto: Michelangelo Lupone, Lorenzo Seno
+
 Prima presentazione: Teatro Olimpico, Roma, 1997
+
 Corda di metallo per quartetto d’archi, Fly30 ed elettronica di Michelangelo Lupone
 
 Programma di sintesi di strumenti a corda e ad arco con modello fisico.
