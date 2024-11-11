@@ -1,3 +1,11 @@
+---
+title: "applicativi"
+excerpt: "Applicativi di supporto per System Fly"
+header:
+  image:
+  teaser:
+---
+
 Applicativi di supporto per System Fly
 
 

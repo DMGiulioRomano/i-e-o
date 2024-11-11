@@ -33,6 +33,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _invenzioni
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -106,7 +107,7 @@ defaults:
       author_profile: true
 # _invenzioni
   - scope:
-      path: ""
+      path: "_invenzioni"
       type: invenzioni
     values:
       layout: single
@@ -116,7 +117,7 @@ defaults:
 collections:
   invenzioni:
     output: true
-    permalink: /:invenzioni/
+    permalink: /:collection/:path/
 
 
 category_archive:
