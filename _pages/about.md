@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "ILACISUM EHCRECIR ORTNEC"
+classes: wide
 ---
 
 
