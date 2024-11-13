@@ -4,8 +4,8 @@ excerpt: "CSNA"
 date: 2019-04-18T15:34:30-04:00
 author: Silvia Lanzalone
 header:
-  teaser: /assets/images/ailicecs.jpg
-  overlay_image: /assets/images/ailicecs.jpg
+  teaser: /assets/images/ailicecs2.jpg
+  overlay_image: /assets/images/ailicecs2.jpg
   overlay_filter: rgba(255, 0, 0, 0.5)
 
 categories:
