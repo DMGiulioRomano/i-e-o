@@ -5,6 +5,9 @@ permalink: /contatti/
 collection: contatti
 entries_layout: grid
 classes: wide
+excerpt: ""
+header:
+  overlay_color: "#333"
 ---
 
 

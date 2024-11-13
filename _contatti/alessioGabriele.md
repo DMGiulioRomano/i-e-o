@@ -3,7 +3,5 @@ title: "Alessio Gabriele"
 excerpt: "Compositore - Responsabile tecnologie informatiche"
 header:
   image:
-  teaser:
+  teaser: /assets/images/AG.jpg
 ---
-
-a

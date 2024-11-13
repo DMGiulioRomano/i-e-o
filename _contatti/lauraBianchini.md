@@ -3,6 +3,5 @@ title: "Laura Bianchini"
 excerpt: "Direttrice organizzativa"
 header:
   image:
-  teaser:
+  teaser: /assets/images/LB.jpg
 ---
-b

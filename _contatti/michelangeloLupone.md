@@ -3,6 +3,5 @@ title: "Michelangelo Lupone"
 excerpt: "Direttore artistico"
 header:
   image:
-  teaser:
+  teaser: /assets/images/ML.jpg
 ---
-c
