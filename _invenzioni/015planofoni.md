@@ -3,7 +3,7 @@ title: "Planofoni"
 excerpt: "Superfici vibranti composte di materiali eterogenei con diverse dimensioni e coloratura. I Planofoni® diffondono il suono in modo coerente e omogeneo su tutta la superficie, con caratteristiche dipendenti dalla qualità della materia e dalla geometria della forma."
 header:
   image:
-  teaser:
+  teaser: /assets/images/Planofoni.jpg
 ---
 
 
@@ -11,6 +11,7 @@ Ideazione: Laura Bianchini e Michelangelo Lupone
 Progetto: Michelangelo Lupone
 Prima presentazione: Installazione sonora Stanze del legno e del metallo, Musica Scienza, Acquario Romano – Roma, 1998
 
+![Alt text]({{ '/assets/images/Planofoni.jpg' | relative_url }})
 
 
 I Planofoni® sono il risultato di un'importante ricerca effettuata presso il CRM di Roma sulla qualità e i modi di diffusione del suono nello spazio. Ideati inizialmente come 'Installazione funzionale' nel 1997, hanno successivamente trovato applicazione nell'ambito del design acustico delle sale da concerto, nei musei e soprattutto come strumenti di elaborazione del suono nelle opere elettroacustiche e di computer music.

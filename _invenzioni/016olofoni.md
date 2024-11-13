@@ -3,11 +3,13 @@ title: "Olofoni"
 excerpt: "Sistemi multifonici basati sull'emissione di onde piane."
 header:
   image:
-  teaser:
+  teaser: /assets/images/Olofono.jpg
 ---
 
 Ideazione e progetto: Michelangelo Lupone
 Prima presentazione: Musica infinita - MusicaScienza Giardini dell’Accademia Filarmonica Romana, 2000
+
+![Alt text]({{ '/assets/images/Olofono.jpg' | relative_url }})
 
 Sistemi multifonici basati sull'emissione di onde piane, progettati per realizzare un elevato controllo sul movimento e sulla scultura del fronte sonoro. Come veri e propri proiettori sonori, gli Olofoni, rappresentano il primo prototipo di un sistema multifonico di diffusione del suono di elevata controllabilità, che permette di effettuare delle modulazioni creative sul fronte d'onda.
 La scultura del fronte d'onda viene effettuata attraverso controlli in fase, ampiezza e frequenza sul segnale musicale.

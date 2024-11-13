@@ -3,12 +3,14 @@ title: "WindBack"
 excerpt: "Il WindBack fa parte della famiglia degli “strumenti aumentati” progettati dal compositore Michelangelo Lupone e realizzati al Centro Ricerche Musicali – CRM di Roma."
 header:
   image:
-  teaser:
+  teaser: /assets/images/Windback.jpg
 ---
 
 Ideazione e progetto: Michelangelo Lupone
 Prima presentazione: Centro Cultural Recoleta, Buenos Aires Argentina, 2011
 In sordina per sax e Windback di Michelangelo Lupone
+
+![Alt text]({{ '/assets/images/Windback.jpg' | relative_url }})
 
 Il WindBack fa parte della famiglia degli “strumenti aumentati” progettati dal compositore Michelangelo Lupone e realizzati al Centro Ricerche Musicali – CRM di Roma. Gli strumenti aumentati derivano il loro nome dall’utilizzo di tecnologie, ad essi integrate, che permettono sia di ampliarne le caratteristiche usuali, sia di generare nuove sonorità).
 Il WindBack è costituito da un sensore e un altoparlante, posto sulla campana del sassofono, in grado di rilevare e condizionare la colonna d’aria che si forma tra il collo (chiver) e la campana.

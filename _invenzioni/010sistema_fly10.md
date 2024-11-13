@@ -3,13 +3,14 @@ title: "Sistema Fly10"
 excerpt: "Sistema hardware-software per la sintesi e il controllo del suono in tempo reale."
 header:
   image:
-  teaser:
+  teaser: /assets/images/Fly10.jpg
 ---
 Ideazione: Michelangelo Lupone
 Progetto e realizzazione: Laura Bianchini, Michelangelo Lupone
 Prima presentazione: V CIM Colloquio d’Informatica Musicale, Mostra d’Oltremare, Napoli, 1985
 Mira per computer in tempo reale Fly10 di Michelangelo Lupone. Interprete Antonella Barbarossa
 
+![Alt text]({{ '/assets/images/Fly10.jpg' | relative_url }})
 
 
 Il sistema Fly10, progettato nel 1983 da Michelangelo Lupone (prima versione per APPLE 1983, seconda versione per IBM PC 1985) e realizzato in collaborazione con Laura Bianchini, è stato uno tra i primi sistemi italiani per la sintesi e il controllo del suono in tempo reale. Al PC-AT, che ha funzioni di host, è affidata la gestione dei dati di editing e la loro conservazione, la programmazione dei tasti e la loro scansione polifonica.

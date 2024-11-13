@@ -1,8 +1,8 @@
 ---
-title: INVENZIONI
+title: EVENTI
 layout: collection
-permalink: /invenzioni/
-collection: invenzioni
+permalink: /eventi/
+collection: eventi
 entries_layout: grid
 classes: wide
 excerpt: ""

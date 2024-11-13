@@ -21,7 +21,7 @@ twitter_username:
 github_username:
 minimal_mistakes_skin: crm
 search: true
-
+teaser: "/assets/images/CRM_logoscritta.png"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -121,12 +121,23 @@ defaults:
       layout: single
       author_profile: false
       share: true
+# _eventi
+  - scope:
+      path: "_eventi"
+      type: eventi
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 collections:
   invenzioni:
     output: true
     permalink: /:collection/:path/
   contatti:
+    output: true
+    permalink: /:collection/:path/
+  eventi:
     output: true
     permalink: /:collection/:path/
 

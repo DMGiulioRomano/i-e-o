@@ -3,15 +3,16 @@ title: "Sistema Fly30"
 excerpt: "Sistema hardware-software per l'analisi, la sintesi e l'elaborazione del suono in tempo reale."
 header:
   image:
-  teaser:
+  teaser: /assets/images/Fly30.jpg
 ---
 
-Ideazione e progetto: Michelangelo Lupone
-Realizzazione software: Antonio Pellecchia
-Prima presentazione: Festival di Musica Verticale Su traccia – Auditorium del Goethe Institut Rom, 1992
-Universi aperti per pianoforte e computer in tempo reale Fly30 di Laura Bianchini
-Pianoforte: Guglielmo Pernaselci, Fly30 Antonio Pellecchia, regia del suono Laura Bianchini
+Ideazione e progetto: Michelangelo Lupone    
+Realizzazione software: Antonio Pellecchia    
+Prima presentazione: Festival di Musica Verticale Su traccia – Auditorium del Goethe Institut Rom, 1992    
+Universi aperti per pianoforte e computer in tempo reale Fly30 di Laura Bianchini    
+Pianoforte: Guglielmo Pernaselci, Fly30 Antonio Pellecchia, regia del suono Laura Bianchini    
 
+![Alt text]({{ '/assets/images/Fly30.jpg' | relative_url }})
 
 
 Il sistema Fly30 è stato realizzato nel 1990 con l'intento specifico di ripensare gli algoritmi tradizionali di calcolo numerico con l'implementazione su un DSP in virgola mobile e per sperimentare algoritmi originali e nuovi sistemi di controllo per le applicazioni in tempo reale. Il Fly30, il cui software è stato sviluppato dal CRM con la collaborazione del CNR - Consiglio Nazionale delle Ricerche, è un sistema object oriented, con calcolo di elevata precisione, per l'analisi, la sintesi e l'elaborazione del suono in tempo reale.

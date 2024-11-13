@@ -3,21 +3,18 @@ title: "Modello Fisico della Corda"
 excerpt: "Programma di sintesi di strumenti a corda e ad arco con modello fisico."
 header:
   image:
-  teaser:
+  teaser: /assets/images/bow_new.png
 ---
 
-Ideazione: Michelangelo Lupone
+Ideazione: Michelangelo Lupone    
+Progetto: Michelangelo Lupone, Lorenzo Seno    
+Prima presentazione: Teatro Olimpico, Roma, 1997   
 
-Progetto: Michelangelo Lupone, Lorenzo Seno
+![Alt text]({{ '/assets/images/bow_new.png' | relative_url }})
 
-Prima presentazione: Teatro Olimpico, Roma, 1997
-
-Corda di metallo per quartetto d’archi, Fly30 ed elettronica di Michelangelo Lupone
-
-Programma di sintesi di strumenti a corda e ad arco con modello fisico.
-
-State diagram of the bowing point. Force versus point-bow relative speed
-
+Corda di metallo per quartetto d’archi, Fly30 ed elettronica di Michelangelo Lupone    
+Programma di sintesi di strumenti a corda e ad arco con modello fisico.    
+State diagram of the bowing point. Force versus point-bow relative speed    
 Il programma simula una corda pizzicata, martellata o sfregata da un archetto, con una metodologia di sintesi per modelli fisici basata su un algoritmo di tipo "elementi finiti". Non utilizza modelli "Karplus-Strong" o a "guida d'onda".
 
 Caratteristiche:

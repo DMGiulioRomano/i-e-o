@@ -1,5 +1,18 @@
-ARTESCIENZA 2024
-ATLANTIDE ATTESA. Innovazione artistica e condivisione culturale
+---
+title: "ARTESCIENZA 2024"
+excerpt: "ATLANTIDE ATTESA"
+header:
+  image: /assets/images/AS_atlantide.jpg
+  teaser: /assets/images/AS_atlantide.jpg
+  actions:
+    - label: "Maggiori Info"
+      url: "https://www.artescienza.info/it/"
+classes: wide
+---
+
+ATLANTIDE ATTESA 
+
+Innovazione artistica e condivisione culturale
 L’azione responsabile dell’arte può intercettare e convogliare i modi di intervento sul sociale, stimolare l’azione politica e culturale, proporre, implicitamente al gesto creativo, modelli ammissibili di relazione e sviluppo collettivo.
 
 La manifestazione ArteScienza 2024 presenta, in forma di spettacolo, le più avanzate ricerche in ambito acustico, psicoacustico e scientifico-tecnologico, proponendo soluzioni alternative ai modi tradizionali di fruizione e della composizione. Oltre alle opere strumentali, elettroniche audiovisive presentate all’Auditorium del Goethe-Institut, una grande installazione immersiva realizzata con tecnologie CRM che evidenzia lo stato dell’arte delle ricerche sullo spazio d’ascolto, valorizza i giardini dell’Istituto per diffondere le opere acusmatiche selezionate da una call internazionale sul tema “Innovazione artistica e condivisione culturale”.

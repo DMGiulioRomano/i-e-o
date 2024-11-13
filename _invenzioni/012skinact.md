@@ -3,12 +3,13 @@ title: "SkinAct"
 excerpt: "Strumento aumentato a percussione."
 header:
   image:
-  teaser:
+  teaser: /assets/images/SkinAct.jpg
 ---
 
 Ideazione e progetto: Michelangelo Lupone
 Prima presentazione: HEM-Haute Ecole de Musique di Ginevra, maggio 2012.
 
+![Alt text]({{ '/assets/images/SkinAct.jpg' | relative_url }})
 
 
 Lo SkinAct è uno strumento aumentato a percussione. È composto da una cornice alta 20 centimetri su cui è posta una membrana di 40 pollici, per un diametro totale di 106 centimetri.Sulla membrana sono posizionati un sensore e un attuatore vibrazionali. Una mappa composta da 21 cerchi e 13 diametri, disegnata sulla superficie della membrana, mette in evidenza i nodi vibrazionali che permettono la selezione delle frequenze parziali dello strumento. Lo SkinAct costituisce un avanzamento nello studio delle caratteristiche vibrazionali già osservate nello strumento aumentato Feed-Drum (Lupone, 2002) e ne fa evolvere considerevolmente il carattere interattivo.
