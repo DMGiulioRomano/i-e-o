@@ -21,7 +21,7 @@ twitter_username:
 github_username:
 minimal_mistakes_skin: crm
 search: true
-teaser: "/assets/images/CRM_logoscritta.png"
+teaser: "/assets/images/ieo.png"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "IEO"
-  avatar : "assets/images/CRM_logoscritta.png"
+  avatar : "assets/images/ieo.png"
   bio    : "ILACISUM EHCRECIR ORTNEC"
   links:
      - label: "Website"
