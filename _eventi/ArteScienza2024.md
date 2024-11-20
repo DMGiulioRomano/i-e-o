@@ -2,8 +2,9 @@
 title: "ARTESCIENZA 2024"
 excerpt: "ATLANTIDE ATTESA"
 header:
-  image: /assets/images/AS_atlantide.jpg
+  overlay_image: /assets/images/AS_atlantide.jpg
   teaser: /assets/images/AS_atlantide.jpg
+  overlay_filter: rgba(25, 0, 0, 0.5)
   actions:
     - label: "Maggiori Info"
       url: "https://www.artescienza.info/it/"

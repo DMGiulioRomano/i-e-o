@@ -1,7 +1,7 @@
 ---
 title: "Monumenti sonori"
 date: 2024-11-12
-author: Laura Bianchini
+author: Francesco Ferracuti
 header:
   teaser: /assets/images/ms_pdo.jpg
 categories:

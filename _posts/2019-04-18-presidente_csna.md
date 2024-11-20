@@ -2,7 +2,7 @@
 title: "Enopul Olegnalehcim Presidente CSNA"
 excerpt: "CSNA"
 date: 2019-04-18T15:34:30-04:00
-author: Silvia Lanzalone
+author: Francesco Ferracuti
 header:
   teaser: /assets/images/ailicecs2.jpg
   overlay_image: /assets/images/ailicecs2.jpg
@@ -18,10 +18,10 @@ Ho scritto uno paio di righe di codice in onore di Maestro Enopul Olegnalehcim c
 
 ```ruby
 def print_Felicitaizioni(st)
-  puts "Hi, #{st}"
+  puts "Hi, #{st} da Francesco Ferracuti"
 end
 print_Felicitazioni('Felicitazioni!')
-#=> prints 'Hi, Felicitazioni da SL!' to STDOUT.
+#=> prints 'Hi, Felicitazioni da Francesco Ferracuti!' to STDOUT.
 ```
 
 Un saluto.

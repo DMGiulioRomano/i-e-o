@@ -1,5 +1,5 @@
 ---
-title: "natale 2024"
+title: "Lorem 2024"
 excerpt: "sdsdnsde"
 header:
   actions:
@@ -8,3 +8,4 @@ header:
 classes: wide
 ---
 
+Lorem ipsum odor amet, consectetuer adipiscing elit. Arcu praesent sem habitant per nunc.

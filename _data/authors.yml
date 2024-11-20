@@ -15,6 +15,21 @@ Michelangelo Lupone:
   #    icon: "fab fa-fw fa-github"
   #    url: "https://github.com/Metabolismo"
 
+CRM:
+  name        : "CRM"
+  bio         : "Centro Ricerche Musicali"
+  avatar      : "/assets/images/ML.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:direzione@crm-music.it"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://s-e-a-m.github.io/alice-cortegiani/"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/Metabolismo"
+
 
 Silvia Lanzalone:
   name        : "Silvia Lanzalone"
